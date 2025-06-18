@@ -195,6 +195,5 @@ int main()
         }
 
     } while (true);
-    cout << "Bye" << endl;
     return 0;
 }
